@@ -20,3 +20,4 @@ var/
 .serverless
 
 config.json
+src/vendor/
