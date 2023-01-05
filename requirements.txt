@@ -1,0 +1,3 @@
+--extra-index-url https://test.pypi.org/simple/
+boto3
+kiotviet-format==2.0.1
